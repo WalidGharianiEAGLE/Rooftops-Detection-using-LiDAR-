@@ -250,4 +250,4 @@ plot(lidar1, color = "Coplanar")
 
 
 ##### There no OSM Buildings Footprint found at this level!! No Progreess with this data
-## Same thing with Indiana3 
+##### Same thing with Indiana3 
